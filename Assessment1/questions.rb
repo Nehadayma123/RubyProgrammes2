@@ -187,3 +187,4 @@ The `factorial` method takes a single argument `n`, which is the number for whic
 3. In each iteration, we multiply `result` by the current number `i`.
 4. Finally, we return `result`, which now contains the factorial of `n`.
 =end
+# comment
